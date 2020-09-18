@@ -1,0 +1,37 @@
+.w3-container a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+pre {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #343f5f;
+    color: #fdfeff;
+    overflow: scroll;
+    border: 1px #929090 solid;
+    padding: 15px
+}
+
+.w3-card-4{
+    width: 200px;
+}
+
+.w3-lightgrey{
+    text-align: center;
+    width: inherit;
+}
+.w3-container{
+    display: inline-block;
+    width: auto;
+    margin-top: 10px;
+    margin-left: auto;
+}
+.w3-green{
+    width: inherit;
+    text-align: center;
+}
+.w3-yellow{
+    width: inherit;
+    text-align: center;
+}
